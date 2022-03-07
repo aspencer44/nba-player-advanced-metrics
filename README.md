@@ -1,5 +1,8 @@
 # nba-player-advanced-metrics
 
+> * File size: ~5MB
+> * Number of datapoints unknown
+
 `nba-data-historical.csv` contains historical RAPTOR and other NBA data.
 
 Note: The following columns are not included for the 2019-20 season or later: `tmRtg`, `MP%`, `P/36`, `A/36`, `R/36`,	`SB/36`, `TO/36`, `PIE%`, `AWS%`, `ORtg`, `%Pos`, `DRtg`, `2P%`,	`3P%`, and `FT%`. These values are also not included for playoffs in any year.
